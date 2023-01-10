@@ -1,4 +1,5 @@
-s module defines a JSON-to-object function"""
+#!/usr/bin/python3
+"""This module defines a JSON-to-object function"""
 
 
 import json
