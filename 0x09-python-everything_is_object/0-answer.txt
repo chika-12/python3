@@ -1,2 +1,2 @@
-type
+1  type
 	
